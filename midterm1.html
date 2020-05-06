@@ -1,0 +1,139 @@
+<html>
+    <head>
+    <meta charset="utf-8" />
+        <title>台灣整體網路使用情況</title>
+    <style>
+        table,th,td,p,h1{
+        padding-left:15px;
+            padding-right:15px;
+        }
+        
+        body{
+        background-color: #F4EEE1;
+        }
+        
+        </style>
+    </head>
+    
+    <body>
+        <!--標題-->
+            <div id="header" style="background-color:black">
+        <h1 style="text-align:center;font-size:300%; color:#FFFFFF;">
+            <br>臺灣整體網路使用情況
+        </h1>
+                <br>
+            </div>
+    
+        <!--前言文字-->
+        <h1 style="padding:15px">前言</h1>
+        <p style="text-indent : 2em;text-align: justify">
+        我們之所以想探討臺灣整體網路使用情況，是因為覺得網路在現代已經是不可或缺的一部分，電商、社群媒體以及上知天文下知地理的Google大神，都是依靠網路而生的，也是人們每天的生活必需品。
+        </p>
+        <p style="text-indent : 2em;text-align: justify">
+            但即使人們開始依賴網路，但每個人的使用時間也會依照使用習慣不同而不同。例如：本組當中一位使用Instagram的時間為1小時45分，而另一位同學則為30分鐘，差距甚大，因此也讓我們好奇臺灣人整體網路使用的情況。
+        </p>
+        
+        <!--前言圖片-->
+        <table width="100%" border="0%">
+            <tr>
+                <td width="15%">
+                </td>
+                <td>
+                    <img style="width:300px;height:450px;" src="https://img.onl/Jf3H5P">
+                </td>
+                <td>
+                    <img style="width:300px;height:450px;" src="https://i.imgur.com/1V91JIr.jpg">
+                </td>
+            </tr>
+        </table>
+        
+        <!--空行-->
+        <br>
+        <br>
+        
+        <!--第一段-->
+        <table width="100%" border="0%">
+            <tr>
+                <!--第一部分文字-->
+                <td width="40%">
+            <h1>個人網路使用習慣概況</h1>
+            <p style="text-indent : 2em;text-align: justify">根據TWNIC在2018年的調查，臺灣12歲以上個人曾經上網率達八成二，也就是大約有1738萬人曾經使用過網路服務。</p>
+            <p style="text-indent : 2em;text-align: justify">在使用網路服務的人中，最常使用的上網裝置為手機，主要使用網路服務的地點是在家中，而平均每日上網的時間約為4.3小時。</p>
+                </td>
+                <td width="5%">
+                </td>
+    
+                <!--第一部分圖片-->
+                <td>
+                    <img style="margin-top: 0.1%,width:600px;height:400px" src="https://i.imgur.com/fdb34TL.jpg">
+                </td>
+            </tr>
+        </table>
+        
+        <br>
+        <br>
+        <!--第一段第二部分文字-->
+        <table width="100%" border="0%">
+            <tr>
+                <td width="40%">
+                    <p style="text-indent: 2em;text-align: justify">
+                    此外，隨著行動網路的速度提升以及方便性，近年使用行動上網的人數與比例逐年增加。
+                    </p>
+                </td>
+                <td width="15%">
+                </td>
+                
+                <!--第二部分圖片-->
+                <td>
+                    <img style="margin-top: 50px, width:600px;height:400px" src="https://img.onl/E0bnxu">
+                </td>
+            </tr>
+        </table>
+        
+        <br>
+        <br>
+        
+        <!--第二段-->
+        <table width="100%" border="0%">
+            <tr>
+    
+                    <!--第二段圖片-->
+                <td width="55%">
+                    <img style="width:600px;height:450px" src="https://img.onl/WnIhj0">
+                </td>
+                
+                <td style="padding-right:100px">
+                    <!--第二段文字-->
+                    <h1>通訊軟體使用情況</h1>
+                    <p style="text-indent: 2em;text-align: justify">
+                    根據調查，通訊軟體的使用率大約佔使用網路服務的96.8%，而最常使用的通訊軟體為Line，接著依序為Messenger、WeChat、Skype與WhatsApp。
+                    </p>
+                    <p style="text-indent: 2em;text-align: justify">
+                    此外，在使用通訊軟體時，最常用到的功能為收發文字訊息，接著為收發貼圖、語音通話、收發照片或影片、視訊通話、語音訊息、傳送好友資料與傳送位置。
+                    </p>
+                </td>
+               
+            </tr>
+        </table>
+        
+        <table width="100%" border="0%">
+            <tr>
+                <!--第一部分文字-->
+                <td width="40%">
+            <h1 style="padding-right:100px">教育方面應用</h1>
+            <p style="text-indent : 2em;text-align: justify;padding-right:100px">人們若使用網路來做為學習工具，最常學習的項目為語言，其次為考試教材，第三為烹飪。</p>
+    
+                </td>
+                <td width="15%">
+                </td>
+    
+                <!--第一部分圖片-->
+                <td>
+                    <iframe src="https://plotdb.io/v/chart/25469" width="600px" height="400px" allowfullscreen="true" frameborder="0"></iframe>
+                    
+                </td>
+            </tr>
+        </table>
+        
+    </body>
+</html>
